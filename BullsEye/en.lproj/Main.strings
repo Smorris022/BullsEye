@@ -1,0 +1,36 @@
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "3G0-9h-sqn"; */
+"3G0-9h-sqn.normalTitle" = "Close";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "8uD-vx-mSQ"; */
+"8uD-vx-mSQ.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "ⓘ"; ObjectID = "DrZ-ij-fTH"; */
+"DrZ-ij-fTH.normalTitle" = "ⓘ";
+
+/* Class = "UILabel"; text = "000"; ObjectID = "I7L-TW-InB"; */
+"I7L-TW-InB.text" = "000";
+
+/* Class = "UILabel"; text = "Score:"; ObjectID = "KHz-uq-nS1"; */
+"KHz-uq-nS1.text" = "Score:";
+
+/* Class = "UIButton"; normalTitle = "Hit Me!!"; ObjectID = "LwJ-Vw-pvx"; */
+"LwJ-Vw-pvx.normalTitle" = "Hit Me!!";
+
+/* Class = "UILabel"; text = "Round:"; ObjectID = "S4j-xl-fHE"; */
+"S4j-xl-fHE.text" = "Round:";
+
+/* Class = "UILabel"; text = "Put the Bull's Eye closest you can to: "; ObjectID = "dGa-NU-uC4"; */
+"dGa-NU-uC4.text" = "Put the Bull's Eye closest you can to: ";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "f4D-Ff-ac8"; */
+"f4D-Ff-ac8.text" = "100";
+
+/* Class = "UITextView"; text = "*** Bull’s Eye ***\nWelcome to the awesome game of Bull’s Eye where you can win points and\nfame by dragging a slider.\nYour goal is to place the slider as close as possible to the target\nvalue. The closer you are, the more points you score. Enjoy!"; ObjectID = "gXc-aA-YL4"; */
+"gXc-aA-YL4.text" = "*** Bull’s Eye ***\nWelcome to the awesome game of Bull’s Eye where you can win points and\nfame by dragging a slider.\nYour goal is to place the slider as close as possible to the target\nvalue. The closer you are, the more points you score. Enjoy!";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "j2Q-Wk-Zjw"; */
+"j2Q-Wk-Zjw.text" = "100";
+
+/* Class = "UILabel"; text = "10000"; ObjectID = "lNW-dO-HpV"; */
+"lNW-dO-HpV.text" = "10000";
